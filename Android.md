@@ -2,9 +2,8 @@
 
 1. [APKMirror](https://www.apkmirror.com/)  
 2. [APKCombo](https://apkcombo.com/)  
-3. GitHub Releases  
-4. 天翼云盘  
-
+3. [GitHub Releases](https://github.com/sertwen/old-browser/releases)  
+4. 个人提供的第三方链接：[天翼云盘](https://cloud.189.cn/t/mqAR7fvUvQni)  PWD: `NTP8`     
 
 * Android System Webview
   * `5.0` 95.0.4638.74
