@@ -1,9 +1,11 @@
-您可以在下方四个渠道获取安装包，请注意文件的校验值是否相同。  
+[Windows浏览器请点这里](Windows.md)
+
+您可以在下方渠道获取文件。  
 
 1. [APKMirror](https://www.apkmirror.com/)  
 2. [APKCombo](https://apkcombo.com/)  
-3. [GitHub Releases](https://github.com/sertwen/old-browser/releases)  
-4. 个人提供的第三方链接：[天翼云盘](https://cloud.189.cn/t/mqAR7fvUvQni)  PWD: `NTP8`     
+3. [GitHub Releases](https://github.com/sertwen/Old-Browser/releases)  
+4. 个人提供的第三方链接：[天翼云盘](https://cloud.189.cn/web/share?code=e63yMzj2QzQf)  PWD: `VT83`     
 
 * Android System Webview
   * `5.0` 95.0.4638.74
