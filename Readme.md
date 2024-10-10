@@ -1,11 +1,10 @@
 [Windows浏览器请点这里](Windows.md)
 
-您可以在下方渠道获取文件。  
+您可以在以下几个渠道获取对应文件。  
 
 1. [APKMirror](https://www.apkmirror.com/)  
 2. [APKCombo](https://apkcombo.com/)  
-3. [GitHub Releases](https://github.com/sertwen/Old-Browser/releases)  
-4. 个人提供的第三方链接：[天翼云盘](https://cloud.189.cn/web/share?code=e63yMzj2QzQf)  PWD: `VT83`     
+3. 个人提供的第三方链接：[天翼云盘](https://cloud.189.cn/web/share?code=e63yMzj2QzQf)  PWD: `VT83`     
 
 ----------------
 * Android System Webview
@@ -40,9 +39,6 @@
   
 * Opera
   * `1.6` 12.1.4
-  * `2.3` 15.0.1162.60140
-  * `3.0` 16.0.1212.65583
-  * `4.0` 29.0.1809.92697
   * `4.1` 50.6.2426.201126
   * `4.4` 58.4.2878.56737
   * `5.0` 66.2.3445.62346
